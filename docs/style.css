@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial',sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #ff69b4;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 5px solid #ffc0cb;
+}
